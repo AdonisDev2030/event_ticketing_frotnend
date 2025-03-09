@@ -53,10 +53,6 @@ npm install
 # or# event-ticketing-front-end
 ```
 
-![screen_app (3)](https://github.com/user-attachments/assets/b4827731-0dfb-4e44-b533-3fe1d3d3ab99)
-![screen_app (2)](https://github.com/user-attachments/assets/8fb85101-e2bb-4478-98e9-1fa2d854c709)
-![screen_app (1)](https://github.com/user-attachments/assets/6834d9c3-41dc-424c-9bc3-bc9b987bd28b)
-![screen_app (4)](https://github.com/user-attachments/assets/356ddbf9-8cae-4b19-9917-8dcdd6f7f031)
 
-
+![Event_ticketing_app](https://github.com/user-attachments/assets/f7eab9b6-eca2-4cb1-a018-f7c235188064)
 
